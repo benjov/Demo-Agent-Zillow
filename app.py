@@ -54,7 +54,7 @@ with st.expander("Preguntas Ejemplo", expanded=False):
 
 # **Agregar Imagen en la Barra Lateral**
 st.sidebar.image("images/Logo_AB.png", use_container_width=True)  # Ruta a la imagen
-st.sidebar.markdown("Contact: vicente@analiticaboutique.com.mx benjamin@analiticaboutique.com.mx")
+st.sidebar.markdown("Contact: jesica.tapia@analiticaboutique.com.mx vicente@analiticaboutique.com.mx")
 
 # Configuración de la base de datos
 DB_OPTIONS = {
